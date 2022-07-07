@@ -44,7 +44,7 @@
                 <table class="table table-striped">
                     <thead>
                         <tr>
-                        <th scope="col">No</th>
+                        <th scope="col">Nomor</th>
                         <th scope="col">NIP</th>
                         <th scope="col">Nama Guru</th>
                         <th scope="col">Alamat</th>
