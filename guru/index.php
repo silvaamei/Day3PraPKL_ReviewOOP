@@ -46,7 +46,7 @@
                         <tr>
                         <th scope="col">Nomor</th>
                         <th scope="col">NIP</th>
-                        <th scope="col">Nama Guru</th>
+                        <th scope="col">Nama</th>
                         <th scope="col">Alamat</th>
                         <th scope="col">Action</th>
                         </tr>
